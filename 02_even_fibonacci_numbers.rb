@@ -10,3 +10,5 @@ def sumOfEvenFibonacciNumbers
 
   sum
 end
+
+puts sumOfEvenFibonacciNumbers
